@@ -1,0 +1,5 @@
+
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
